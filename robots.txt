@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-rwbzgg.hartawin.online/sitemap.xml
